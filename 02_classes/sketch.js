@@ -4,6 +4,7 @@
 
 // var num = 10; // number of ships
 var ufos = []; 
+//var exVariable; 
 
 
 function setup() {
